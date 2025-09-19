@@ -143,7 +143,6 @@ git push origin feature/AmazingFeature
 
 🔁 Open a Pull Request
 
-```
 
 ---
 
