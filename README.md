@@ -156,6 +156,7 @@ See the full license in the LICENSE
 📧 Contact
 
 👨‍💻 Mohit Singh
+
 📩 Email: mohitsingh.2626452@gmail.com
 
 
