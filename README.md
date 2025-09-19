@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/ArtiqAI/stargazers"><img src="https://img.shields.io/github/stars/yourusername/ArtiqAI?style=for-the-badge" alt="Stars"></a>
-  <a href="https://github.com/yourusername/ArtiqAI/network/members"><img src="https://img.shields.io/github/forks/yourusername/ArtiqAI?style=for-the-badge" alt="Forks"></a>
+  <a href="https://github.com/OmpalSingh01/ArtiqAI/stargazers"><img src="https://img.shields.io/github/stars/yourusername/ArtiqAI?style=for-the-badge" alt="Stars"></a>
+  <a href="https://github.com/OmpalSingh01/ArtiqAI/network/members"><img src="https://img.shields.io/github/forks/yourusername/ArtiqAI?style=for-the-badge" alt="Forks"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"></a>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -22,7 +22,7 @@
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to view the app](https://example.vercel.app)
+👉 [Click here to view the app](https://artiq-three.vercel.app/)
 
 ---
 
