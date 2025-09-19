@@ -143,6 +143,9 @@ git push origin feature/AmazingFeature
 
 🔁 Open a Pull Request
 
+```
+
+---
 
 📜 License
 
@@ -150,10 +153,10 @@ This project is licensed under the MIT License.
 See the full license in the LICENSE
  file.
 
+
 📧 Contact
 
 👨‍💻 Mohit Singh
-
 📩 Email: mohitsingh.2626452@gmail.com
 
 
