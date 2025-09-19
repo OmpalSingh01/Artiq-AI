@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&family=Outfit:wght@100..900&family=Reem+Kufi:wght@400..700&display=swap');
+@import "tailwindcss";
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: Outfit;
+}
+
+.placholder-color{
+    color: #e0e0e0;
+    font-weight: 300;
+}
