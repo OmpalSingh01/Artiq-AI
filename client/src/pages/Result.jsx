@@ -4,6 +4,7 @@ import { assets } from "../assets/assets";
 import { motion, AnimatePresence } from "framer-motion";
 import { AppContext } from "../context/AppContext";
 import { toast } from "react-toastify";
+import { Send } from "lucide-react";
 
 const Result = () => {
   const [image, setImage] = useState(assets.sample_img_1);
@@ -112,26 +113,52 @@ const handleDelete = imgUrl => setDeleteTarget(imgUrl);
         )}
 
         {/* Generated Image Controls */}
-        {isImageLoaded && (
-          <div className="flex flex-col sm:flex-row gap-3 flex-wrap justify-center text-sm p-1 mt-10 w-full max-w-xl">
-            <button
-              onClick={() =>{setIsImageLoaded(false);
-              setInput(""); }} // ✅ clear old input so it doesn’t auto-regenerate
-              className="w-full sm:w-auto px-8 py-3 rounded-xl sm:rounded-full border border-zinc-300 text-zinc-700 hover:bg-zinc-100 transition-all duration-300"
-            >
-              Generate Another
-            </button>
-           
 
-            <a
-              href={image.replace("/upload/", "/upload/fl_attachment/")}
-              className="w-full sm:w-auto px-10 py-3 rounded-xl sm:rounded-full bg-gradient-to-r from-zinc-900 to-zinc-800 text-white shadow-md hover:from-black hover:to-zinc-900 transition-all duration-300 text-center"
-            >
-              Download
-            </a>
+       {isImageLoaded && (
+  <div className="flex flex-col sm:flex-row gap-3 flex-wrap justify-center text-sm p-1 mt-10 w-full max-w-xl">
+    {/* Generate Another */}
+    <button
+      onClick={() => {
+        setIsImageLoaded(false);
+        setInput("");
+      }}
+      className="w-full sm:w-auto px-8 py-3 rounded-xl sm:rounded-full border border-zinc-300 text-zinc-700 hover:bg-zinc-100 transition-all duration-300"
+    >
+      Generate Another
+    </button>
 
-          </div>
-        )}
+    {/* Download */}
+    <a
+      href={image.replace("/upload/", "/upload/fl_attachment/")}
+      className="w-full sm:w-auto px-10 py-3 rounded-xl sm:rounded-full bg-gradient-to-r from-zinc-900 to-zinc-800 text-white shadow-md hover:from-black hover:to-zinc-900 transition-all duration-300 text-center"
+      download
+    >
+      Download
+    </a>
+
+    {/* Share (icon only) */}
+    <button
+      onClick={async () => {
+        if (navigator.share) {
+          try {
+            await navigator.share({
+              title: "Check out this AI-generated image",
+              text: "Made using Artiq AI ✨",
+              url: image,
+            });
+          } catch (err) {
+            console.error("Share failed:", err);
+          }
+        } else {
+          alert("Sharing is not supported in this browser.");
+        }
+      }}
+      className="w-12 h-12 flex items-center justify-center rounded-full bg-gradient-to-r from-green-500 to-green-600 text-white shadow-md hover:from-green-600 hover:to-green-700 transition-all duration-300"
+    >
+      <Send size={20} />
+    </button>
+  </div>
+)}
 
 
 
