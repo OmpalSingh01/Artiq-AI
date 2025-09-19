@@ -145,11 +145,6 @@ This project is licensed under the MIT License – see the LICENSE
 📧 Contact
 
 Mohit Singh
-
-GitHub: OmpalSingh01
-
-LinkedIn: your-linkedin
-
 Email: mohitsingh.2626452@gmail.com
 
 
