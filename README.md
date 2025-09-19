@@ -58,7 +58,6 @@ All generated images are stored securely in **Cloudinary**, and users can view t
 ---
 
 ## 📸 Screenshots
-> Replace these links with your screenshots
 
 - [Homepage] <img width="520" height="310" alt="Screenshot 2025-09-20 003413" src="https://github.com/user-attachments/assets/d828a57f-ff3a-4727-bcf5-04f9cd282829" />
 
