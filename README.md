@@ -60,17 +60,17 @@ All generated images are stored securely in **Cloudinary**, and users can view t
 ## 📸 Screenshots
 > Replace these links with your screenshots
 
-- [Homepage] <img width="1920" height="1200" alt="Screenshot 2025-09-20 003413" src="https://github.com/user-attachments/assets/d828a57f-ff3a-4727-bcf5-04f9cd282829" />
+- [Homepage] <img width="520" height="310" alt="Screenshot 2025-09-20 003413" src="https://github.com/user-attachments/assets/d828a57f-ff3a-4727-bcf5-04f9cd282829" />
 
-- [Dashboard]<img width="1920" height="1200" alt="Screenshot 2025-09-20 004140" src="https://github.com/user-attachments/assets/c3a53d66-b5db-4a5f-a215-ccc443d32c95" />
-
-
--  [Our Team] <img width="1920" height="1200" alt="Screenshot 2025-09-20 003506" src="https://github.com/user-attachments/assets/6707836a-b85a-4984-9dc8-f9cf61e8261e" />
+- [Dashboard]<img width="520" height="310" alt="Screenshot 2025-09-20 004140" src="https://github.com/user-attachments/assets/c3a53d66-b5db-4a5f-a215-ccc443d32c95" />
 
 
-- [Gallery]  <img width="1920" height="1200" alt="Screenshot 2025-09-20 003911" src="https://github.com/user-attachments/assets/2a6f4634-9414-4d6f-9d4b-ddf3d57df30a" />
+-  [Our Team] <img width="520" height="310" alt="Screenshot 2025-09-20 003506" src="https://github.com/user-attachments/assets/6707836a-b85a-4984-9dc8-f9cf61e8261e" />
 
-- [Payment]<img width="480" height="300" alt="Screenshot 2025-09-20 004102" src="https://github.com/user-attachments/assets/b3b645b0-560a-4129-92f7-b3868d87cf7e" />
+
+- [Gallery]  <img width="520" height="310" alt="Screenshot 2025-09-20 003911" src="https://github.com/user-attachments/assets/2a6f4634-9414-4d6f-9d4b-ddf3d57df30a" />
+
+- [Payment]<img width="520" height="310" alt="Screenshot 2025-09-20 004102" src="https://github.com/user-attachments/assets/b3b645b0-560a-4129-92f7-b3868d87cf7e" />
 
 
 ---
