@@ -114,6 +114,8 @@ Start Frontend
 cd client
 npm start
 
+---
+
 🌍 Deployment
 
 Frontend: Deployed on Vercel
