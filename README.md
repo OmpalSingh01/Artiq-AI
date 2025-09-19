@@ -1,23 +1,6 @@
 # ![Artiq AI Logo](https://res.cloudinary.com/dusmnbymp/image/upload/v1758252980/logoA_xwg1mw.png)
 
-<h1 align="center">Artiq AI - Text to Image AI SaaS App</h1>
-
-<p align="center">
-  Generate stunning AI images with credits, payments, and cloud storage.  
-  Built with the <b>MERN Stack</b> + <b>Razorpay</b> + <b>Clipdrop API</b>.
-</p>
-
-<p align="center">
-  <a href="https://github.com/OmpalSingh01/Artiq-AI/tree/master/client"><img src="https://img.shields.io/github/stars/yourusername/ArtiqAI?style=for-the-badge" alt="Stars"></a>
-  <a href="https://github.com/OmpalSingh01/Artiq-AI/tree/master/server"><img src="https://img.shields.io/github/forks/yourusername/ArtiqAI?style=for-the-badge" alt="Forks"></a>
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"></a>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-</p>
+<h1 align="center">Artiq AI - Text to Image AI SaaS App</h1> <p align="center"> Generate stunning AI images with credits, payments, and cloud storage. Built with the <b>MERN Stack</b> + <b>Razorpay</b> + <b>Clipdrop API</b>. </p> <p align="center"> <a href="https://github.com/OmpalSingh01/Artiq-AI/tree/master/client"><img src="https://img.shields.io/github/stars/OmpalSingh01/Artiq-AI?style=for-the-badge" alt="Stars"></a> <a href="https://github.com/OmpalSingh01/Artiq-AI/tree/master/server"><img src="https://img.shields.io/github/forks/OmpalSingh01/Artiq-AI?style=for-the-badge" alt="Forks"></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"></a> </p> <p align="center"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" /> </p> <p align="center"> <a href="https://artiq-three.vercel.app/"><img src="https://img.shields.io/badge/Frontend-Vercel-black?style=for-the-badge&logo=vercel" alt="Vercel Deployment"></a> <a href="https://your-backend-url.onrender.com"><img src="https://img.shields.io/badge/Backend-Render-blue?style=for-the-badge&logo=render" alt="Render Deployment"></a> </p>
 
 ---
 
