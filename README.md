@@ -116,37 +116,45 @@ npm start
 ```
 ---
 
-🌍 Deployment
+## 🌍 Deployment
+- **Frontend:** Deployed on [Vercel](https://example.vercel.app)  
+- **Backend:** Deployed on [Render](https://example.onrender.com)  
+- **Database:** MongoDB Atlas  
 
-Frontend: Deployed on Vercel
+---
 
-Backend: Deployed on Render
+## 🤝 Contributing
+We ❤️ contributions! Whether it’s bug fixes, feature requests, or improvements, feel free to contribute.  
 
-Database: MongoDB Atlas
+### Steps to Contribute:
+1. 🍴 **Fork** the repository  
+2. 🌱 **Create** your Feature Branch  
+   ```bash
+   git checkout -b feature/AmazingFeature
+   
+💻 Commit your Changes
+git commit -m "Add some AmazingFeature"
 
-🤝 Contributing
+🚀 Push to the Branch
+git push origin feature/AmazingFeature
 
-Contributions are always welcome!
-Please fork the repository and create a pull request with your changes.
-
-Fork the Project
-
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-
-Push to the Branch (git push origin feature/AmazingFeature)
-
-Open a Pull Request
+🔁 Open a Pull Request
 
 📜 License
 
-This project is licensed under the MIT License – see the LICENSE
- file for details.
+This project is licensed under the MIT License.
+See the full license in the LICENSE
+ file.
 
 📧 Contact
 
-Mohit Singh
-Email: mohitsingh.2626452@gmail.com
+👨‍💻 Mohit Singh
+📩 Email: mohitsingh.2626452@gmail.com
+
+🌐 GitHub: yourusername
+
+🔗 LinkedIn: your-linkedin
+
+
 
 
