@@ -65,12 +65,12 @@ All generated images are stored securely in **Cloudinary**, and users can view t
 - [Dashboard]<img width="1920" height="1200" alt="Screenshot 2025-09-20 004140" src="https://github.com/user-attachments/assets/c3a53d66-b5db-4a5f-a215-ccc443d32c95" />
 
 
-- - [Our Team] <img width="1920" height="1200" alt="Screenshot 2025-09-20 003506" src="https://github.com/user-attachments/assets/6707836a-b85a-4984-9dc8-f9cf61e8261e" />
+-  [Our Team] <img width="1920" height="1200" alt="Screenshot 2025-09-20 003506" src="https://github.com/user-attachments/assets/6707836a-b85a-4984-9dc8-f9cf61e8261e" />
 
 
 - [Gallery]  <img width="1920" height="1200" alt="Screenshot 2025-09-20 003911" src="https://github.com/user-attachments/assets/2a6f4634-9414-4d6f-9d4b-ddf3d57df30a" />
 
-- [Payment]<img width="960" height="600" alt="Screenshot 2025-09-20 004102" src="https://github.com/user-attachments/assets/b3b645b0-560a-4129-92f7-b3868d87cf7e" />
+- [Payment]<img width="480" height="300" alt="Screenshot 2025-09-20 004102" src="https://github.com/user-attachments/assets/b3b645b0-560a-4129-92f7-b3868d87cf7e" />
 
 
 ---
