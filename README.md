@@ -132,13 +132,17 @@ We ❤️ contributions! Whether it’s bug fixes, feature requests, or improvem
    ```bash
    git checkout -b feature/AmazingFeature
    
+   
 💻 Commit your Changes
 git commit -m "Add some AmazingFeature"
+
 
 🚀 Push to the Branch
 git push origin feature/AmazingFeature
 
+
 🔁 Open a Pull Request
+
 
 📜 License
 
@@ -149,11 +153,9 @@ See the full license in the LICENSE
 📧 Contact
 
 👨‍💻 Mohit Singh
+
 📩 Email: mohitsingh.2626452@gmail.com
 
-🌐 GitHub: yourusername
-
-🔗 LinkedIn: your-linkedin
 
 
 
