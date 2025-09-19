@@ -1,4 +1,4 @@
-# ![Artiq AI Logo](https://example.com/logo.png)
+# ![Artiq AI Logo]([https://example.com/logo.png](https://res.cloudinary.com/dusmnbymp/image/upload/v1758252980/logoA_xwg1mw.png))
 
 <h1 align="center">Artiq AI - Text to Image AI SaaS App</h1>
 
