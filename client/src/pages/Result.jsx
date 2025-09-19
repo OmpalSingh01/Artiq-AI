@@ -4,7 +4,7 @@ import { assets } from "../assets/assets";
 import { motion, AnimatePresence } from "framer-motion";
 import { AppContext } from "../context/AppContext";
 import { toast } from "react-toastify";
-import { Send } from "lucide-react";
+
 
 const Result = () => {
   const [image, setImage] = useState(assets.sample_img_1);
@@ -136,7 +136,7 @@ const handleDelete = imgUrl => setDeleteTarget(imgUrl);
       Download
     </a>
 
-    {/* Share (icon only) */}
+    {/* Share */}
     <button
       onClick={async () => {
         if (navigator.share) {
@@ -144,7 +144,7 @@ const handleDelete = imgUrl => setDeleteTarget(imgUrl);
             await navigator.share({
               title: "Check out this AI-generated image",
               text: "Made using Artiq AI ✨",
-              url: image,
+              url: image, // Direct image URL
             });
           } catch (err) {
             console.error("Share failed:", err);
@@ -153,9 +153,9 @@ const handleDelete = imgUrl => setDeleteTarget(imgUrl);
           alert("Sharing is not supported in this browser.");
         }
       }}
-      className="w-12 h-12 flex items-center justify-center rounded-full bg-gradient-to-r from-green-500 to-green-600 text-white shadow-md hover:from-green-600 hover:to-green-700 transition-all duration-300"
+      className="w-full sm:w-auto px-10 py-3 rounded-xl sm:rounded-full bg-gradient-to-r from-green-500 to-green-600 text-white shadow-md hover:from-green-600 hover:to-green-700 transition-all duration-300 text-center"
     >
-      <Send size={20} />
+      Share
     </button>
   </div>
 )}
