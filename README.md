@@ -133,6 +133,8 @@ The Artiq AI – Text to Image AI SaaS App was built with a focus on innovation 
 Two O-Level candidates, Anamika Singh and Jatan Singh, collaborated with us as part of their O-Level project submission, contributing to both frontend design and backend integration. Their creativity and teamwork added great value and helped them successfully complete their O-Level practical assessment.
 
 ### 🧩 Anamika Singh
+<p style="width: 30%; border-bottom: 1px solid #ccc;"></p>
+
 
 Role: Frontend Developer • Manual Tester
 Category: O-Level Project Submission
@@ -152,7 +154,8 @@ Her creativity and attention to detail elevated the project’s overall look and
 
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:anamikasingh8106@gmail.com)
 
-                              ***---------------------------------------***
+<hr style="width: 30%; text-align: left; margin-left: 0;">
+                
 
 ### ⚙️ Jatan Singh
 
