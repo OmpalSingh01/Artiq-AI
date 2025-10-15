@@ -80,7 +80,7 @@ All generated images are stored securely in **Cloudinary**, and users can view t
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ArtiqAI.git
+git clone https://github.com/ompalsingh01/ArtiqAI.git
 cd ArtiqAI
 
 2. Install Dependencies
