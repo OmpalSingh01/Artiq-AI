@@ -2,7 +2,7 @@
 
 <h1 align="center">Artiq AI - Text to Image AI SaaS App</h1> <p align="center"> Generate stunning AI images with credits, payments, and cloud storage. Built with the <b>MERN Stack</b> + <b>Razorpay</b> + <b>Clipdrop API</b>. </p> <p align="center"> <a href="https://github.com/OmpalSingh01/Artiq-AI/tree/master/client"><img src="https://img.shields.io/github/stars/OmpalSingh01/Artiq-AI?style=for-the-badge" alt="Stars"></a> <a href="https://github.com/OmpalSingh01/Artiq-AI/tree/master/server"><img src="https://img.shields.io/github/forks/OmpalSingh01/Artiq-AI?style=for-the-badge" alt="Forks"></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"></a> </p> <p align="center"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white" /> <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" /> </p>
 
----
+
 
 
 ## 🚀 Live Demo
@@ -12,7 +12,7 @@
   </a>
 </p>
 
----
+
 
 ## 📖 About the Project
 **Artiq AI** is a full-stack **AI SaaS application** built with the **MERN stack** that allows users to generate high-quality images from text prompts using the **Clipdrop API**.  
@@ -20,7 +20,7 @@
 The app includes a **credit-based system** where users can generate images, and purchase additional credits securely via **Razorpay**.  
 All generated images are stored securely in **Cloudinary**, and users can view their previous generate image in the **gallery**.  
 
----
+
 
 ## ✨ Features
 - 🔐 **Authentication & Authorization** – Secure login/signup with JWT and MongoDB.  
@@ -32,7 +32,7 @@ All generated images are stored securely in **Cloudinary**, and users can view t
 - 📬 **Contact Form + Newsletter** – Fully working forms.  
 - ⚡ **MERN Stack** – Modern, scalable full-stack architecture.  
 
----
+
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Tailwind CSS  
@@ -43,7 +43,7 @@ All generated images are stored securely in **Cloudinary**, and users can view t
 - **Storage:** Cloudinary  
 - **Deployment:** Vercel (client) + Render (server)  
 
----
+
 
 ## 📸 Screenshots
 
@@ -74,7 +74,7 @@ All generated images are stored securely in **Cloudinary**, and users can view t
 
 
 
----
+
 
 ## ⚙️ Installation & Setup
 
@@ -125,7 +125,46 @@ npm start
 - **Backend:** Deployed on [Render](https://example.onrender.com)  
 - **Database:** MongoDB Atlas  
 
----
+## 👥 Our Team
+### 💡 About the Team
+
+The Artiq AI – Text to Image AI SaaS App was developed with a focus on innovation and user experience.
+Two O-Level candidates, Anamika Singh and Jatan Singh, collaborated with us as part of their O-Level project submission, contributing to both frontend design and backend integration. Their dedication and teamwork added great value and helped them successfully complete their O-Level practical assessment.
+
+🧩 Anamika Singh
+
+Role: Frontend Developer • Manual Tester
+Category: O-Level Project Submission
+
+Contributions:
+
+Improved the UI by replacing placeholder text with meaningful content and selecting better banner and section images.
+
+Assisted in Razorpay integration and introduced the President Gallery feature.
+
+Participated in manual testing to enhance user experience.
+```
+Impact:
+Her creativity and attention to detail greatly improved the project’s overall look and feel.
+```
+
+⚙️ Jatan Singh
+
+Role: Frontend Developer • Backend Integrator
+Category: O-Level Project Submission
+
+Contributions:
+
+Implemented MongoDB Atlas and Razorpay integration.
+
+Supported frontend updates and manual testing.
+
+Ensured smooth connectivity between frontend and backend.
+```
+Impact:
+His technical skills and teamwork strengthened the system’s stability and functionality.
+```
+
 
 ## 🤝 Contributing
 We ❤️ contributions! Whether it’s bug fixes, feature requests, or improvements, feel free to contribute.  
@@ -150,7 +189,7 @@ git push origin feature/AmazingFeature
 
 ---
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 See the full license in the LICENSE
