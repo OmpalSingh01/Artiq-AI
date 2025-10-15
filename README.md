@@ -152,7 +152,7 @@ Her creativity and attention to detail elevated the project’s overall look and
 
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:anamikasingh8106@gmail.com)
 
-***
+                              ***---------------------------------------***
 
 ### ⚙️ Jatan Singh
 
@@ -171,6 +171,8 @@ Ensured smooth frontend-backend connectivity 🔗.
 His technical expertise and teamwork strengthened the system’s stability and functionality.
 
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:druvhjatan8840@gmail.com)
+
+
 
 
 
