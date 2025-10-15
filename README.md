@@ -131,7 +131,9 @@ npm start
 The Artiq AI – Text to Image AI SaaS App was developed with a focus on innovation and user experience.
 Two O-Level candidates, Anamika Singh and Jatan Singh, collaborated with us as part of their O-Level project submission, contributing to both frontend design and backend integration. Their dedication and teamwork added great value and helped them successfully complete their O-Level practical assessment.
 
-🧩 Anamika Singh
+
+```
+## 🧩 Anamika Singh
 
 Role: Frontend Developer • Manual Tester
 Category: O-Level Project Submission
@@ -143,12 +145,14 @@ Improved the UI by replacing placeholder text with meaningful content and select
 Assisted in Razorpay integration and introduced the President Gallery feature.
 
 Participated in manual testing to enhance user experience.
-```
+
 Impact:
 Her creativity and attention to detail greatly improved the project’s overall look and feel.
 ```
 
-⚙️ Jatan Singh
+
+```
+### ⚙️ Jatan Singh
 
 Role: Frontend Developer • Backend Integrator
 Category: O-Level Project Submission
@@ -160,10 +164,11 @@ Implemented MongoDB Atlas and Razorpay integration.
 Supported frontend updates and manual testing.
 
 Ensured smooth connectivity between frontend and backend.
-```
+
 Impact:
 His technical skills and teamwork strengthened the system’s stability and functionality.
 ```
+
 
 
 ## 🤝 Contributing
