@@ -134,6 +134,7 @@ Two O-Level candidates, Anamika Singh and Jatan Singh, collaborated with us as p
 
 ### 🧩 Anamika Singh
 Role: Frontend Developer • Manual Tester
+
 Category: O-Level Project Submission
 
 ✨ Contributions:
@@ -156,6 +157,7 @@ Her creativity and attention to detail elevated the project’s overall look and
 
 ### ⚙️ Jatan Singh
 Role: Frontend Developer • Backend Integrator
+
 Category: O-Level Project Submission
 
 ✨ Contributions:
