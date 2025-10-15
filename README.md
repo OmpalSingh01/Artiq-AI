@@ -150,8 +150,9 @@ Conducted manual testing ✅.
 🌟 Impact:
 Her creativity and attention to detail elevated the project’s overall look and feel.
 
-🔗 Connect [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:anamika@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:anamikasingh8106@gmail.com)
 
+***
 
 ### ⚙️ Jatan Singh
 
@@ -169,7 +170,7 @@ Ensured smooth frontend-backend connectivity 🔗.
 🌟 Impact:
 His technical expertise and teamwork strengthened the system’s stability and functionality.
 
-🔗 Connect [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:anamika@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:druvhjatan8840@gmail.com)
 
 
 
