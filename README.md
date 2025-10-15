@@ -125,49 +125,52 @@ npm start
 - **Backend:** Deployed on [Render](https://example.onrender.com)  
 - **Database:** MongoDB Atlas  
 
+
 ## 👥 Our Team
 ### 💡 About the Team
 
-The Artiq AI – Text to Image AI SaaS App was developed with a focus on innovation and user experience.
-Two O-Level candidates, Anamika Singh and Jatan Singh, collaborated with us as part of their O-Level project submission, contributing to both frontend design and backend integration. Their dedication and teamwork added great value and helped them successfully complete their O-Level practical assessment.
+The Artiq AI – Text to Image AI SaaS App was built with a focus on innovation and seamless user experience.
+Two O-Level candidates, Anamika Singh and Jatan Singh, collaborated with us as part of their O-Level project submission, contributing to both frontend design and backend integration. Their creativity and teamwork added great value and helped them successfully complete their O-Level practical assessment.
 
-
-```
-## 🧩 Anamika Singh
+### 🧩 Anamika Singh
 
 Role: Frontend Developer • Manual Tester
 Category: O-Level Project Submission
 
-Contributions:
+✨ Contributions:
 
-Improved the UI by replacing placeholder text with meaningful content and selecting better banner and section images.
+Enhanced the UI: replaced placeholder text with meaningful content & selected banner/about page images 🖼️.
 
-Assisted in Razorpay integration and introduced the President Gallery feature.
+Assisted in Razorpay integration 💳.
 
-Participated in manual testing to enhance user experience.
+Introduced the President Gallery 🎨.
 
-Impact:
-Her creativity and attention to detail greatly improved the project’s overall look and feel.
-```
+Conducted manual testing ✅.
+
+🌟 Impact:
+Her creativity and attention to detail elevated the project’s overall look and feel.
+
+🔗 Connect [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:anamika@example.com)
 
 
-```
 ### ⚙️ Jatan Singh
 
 Role: Frontend Developer • Backend Integrator
 Category: O-Level Project Submission
 
-Contributions:
+✨ Contributions:
 
-Implemented MongoDB Atlas and Razorpay integration.
+Implemented MongoDB Atlas 🗄️ & Razorpay integration 💳.
 
-Supported frontend updates and manual testing.
+Supported frontend enhancements & manual testing ✅.
 
-Ensured smooth connectivity between frontend and backend.
+Ensured smooth frontend-backend connectivity 🔗.
 
-Impact:
-His technical skills and teamwork strengthened the system’s stability and functionality.
-```
+🌟 Impact:
+His technical expertise and teamwork strengthened the system’s stability and functionality.
+
+🔗 Connect [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:anamika@example.com)
+
 
 
 
