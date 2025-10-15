@@ -183,7 +183,8 @@ We ❤️ contributions! Whether it’s bug fixes, feature requests, or improvem
 
 ### Steps to Contribute:
 1. 🍴 **Fork** the repository  
-2. 🌱 **Create** your Feature Branch  
+2. 🌱 **Create** your Feature Branch
+   
    ```bash
    git checkout -b feature/AmazingFeature
    
@@ -199,7 +200,6 @@ git push origin feature/AmazingFeature
 🔁 Open a Pull Request
 
 
----
 
 ## 📜 License
 
