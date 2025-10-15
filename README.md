@@ -126,57 +126,6 @@ npm start
 - **Database:** MongoDB Atlas  
 
 
-## 👥 Our Team
-### 💡 About the Team
-
-The Artiq AI – Text to Image AI SaaS App was built with a focus on innovation and seamless user experience.
-Two O-Level candidates, Anamika Singh and Jatan Singh, collaborated with us as part of their O-Level project submission, contributing to both frontend design and backend integration. Their creativity and teamwork added great value and helped them successfully complete their O-Level practical assessment.
-
-### 🧩 Anamika Singh
-Role: Frontend Developer • Manual Tester
-
-Category: O-Level Project Submission
-
-✨ Contributions:
-
-Enhanced the UI: replaced placeholder text with meaningful content & selected banner/about page images 🖼️.
-
-Assisted in Razorpay integration 💳.
-
-Introduced the President Gallery 🎨.
-
-Conducted manual testing ✅.
-
-🌟 Impact:
-Her creativity and attention to detail elevated the project’s overall look and feel.
-
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:anamikasingh8106@gmail.com)
-
-<hr style="width: 10%; text-align: left; margin-left: 0;">
-                
-
-### ⚙️ Jatan Singh
-Role: Frontend Developer • Backend Integrator
-
-Category: O-Level Project Submission
-
-✨ Contributions:
-
-Implemented MongoDB Atlas 🗄️ & Razorpay integration 💳.
-
-Supported frontend enhancements & manual testing ✅.
-
-Ensured smooth frontend-backend connectivity 🔗.
-
-🌟 Impact:
-His technical expertise and teamwork strengthened the system’s stability and functionality.
-
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail)](mailto:druvhjatan8840@gmail.com)
-
-
-
-
-
 
 ## 🤝 Contributing
 We ❤️ contributions! Whether it’s bug fixes, feature requests, or improvements, feel free to contribute.  
